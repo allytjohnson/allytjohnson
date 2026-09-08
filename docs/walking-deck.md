@@ -59,7 +59,15 @@ I care about reach and quality, but mostly about whether the work is useful to t
 
 ---
 
-## My most recent work
+## Current role
+
+I currently manage customer-facing Azure onboarding and infrastructure-service requests for Varian, coordinating delivery across cloud operations, security, architecture, ITSM, and application teams.
+
+I turn intake requests into structured projects with clear ownership, dependencies, risks, approvals, deployment steps, and operational handoff.
+
+---
+
+## Selected recent work
 
 At The Microsoft Garage, my focus was scaling AI skilling into something that could run on its own:
 
