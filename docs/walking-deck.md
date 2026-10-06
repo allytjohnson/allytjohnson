@@ -61,9 +61,11 @@ I care about reach and quality, but mostly about whether the work is useful to t
 
 ## Current role
 
-I currently manage customer-facing Azure onboarding and infrastructure-service requests for Varian, coordinating delivery across cloud operations, security, architecture, ITSM, and application teams.
+At DXC, I’m building the governance and reporting system behind Varian’s Service Improvement Plan (SIP):
 
-I turn intake requests into structured projects with clear ownership, dependencies, risks, approvals, deployment steps, and operational handoff.
+- **SIP tracking**: Replaced Excel with an 18-field Microsoft Lists tracker; maintained four weekly workstream records.
+- **Clearer reporting**: Reworked weekly updates to separate completed from in-progress work and address client requests for changes, timelines, and results.
+- **Automated follow-through**: Put six Power Automate flows into operation, with a 14-field automation log, consolidated owner notifications, and escalation routing.
 
 ---
 
@@ -119,4 +121,3 @@ If you're standing up a skilling program, need structure, or want to scale somet
 Learn, build, scale.
 
 <p class="meta cta"><a href="index.html">Back to portfolio</a></p>
-
