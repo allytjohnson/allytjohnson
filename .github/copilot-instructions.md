@@ -1,5 +1,7 @@
 # Repo conventions
 
+Follow [operating principles](../docs/operating-principles.md) first. Shared skills (humanizer, grilling, caveman) live in the Role-Ops repo under `.github/skills/`; don't add copies here.
+
 ## Walking deck (`docs/walking-deck.md`)
 
 - Marp slide deck. After any edit, rebuild the HTML:

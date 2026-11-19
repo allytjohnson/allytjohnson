@@ -14,4 +14,4 @@ In FY26, that meant 121 events and 36,900 attendees, plus reusable kits and reso
 
 ## About this repo
 
-This repository holds the source for my [portfolio site](https://allytjohnson.github.io/allytjohnson/) and [walking deck](docs/walking-deck.html), both published via GitHub Pages from `docs/`.
+This repository holds the source for my [portfolio site](https://allytjohnson.github.io/allytjohnson/) and [walking deck](docs/walking-deck.html), both published via GitHub Pages from `docs/`. Changes follow the [operating principles](docs/operating-principles.md).
