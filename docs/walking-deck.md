@@ -61,11 +61,11 @@ I care about reach and quality, but mostly about whether the work is useful to t
 
 ## Current role
 
-At DXC, I’m building the governance and reporting system behind Varian’s Service Improvement Plan (SIP):
+I lead governance for a service improvement plan on the Varian account (via DXC), turning fragmented tracking into a system with clear owners, evidence, and follow-up.
 
-- **SIP tracking**: Replaced Excel with an 18-field Microsoft Lists tracker; maintained four weekly workstream records.
-- **Clearer reporting**: Reworked weekly updates to separate completed from in-progress work and address client requests for changes, timelines, and results.
-- **Automated follow-through**: Put six Power Automate flows into operation, with a 14-field automation log, consolidated owner notifications, and escalation routing.
+- **A shared tracking system**: Moved from spreadsheets to Microsoft Lists across 8 control dimensions.
+- **Automated follow-through**: Put 6 Power Automate flows into operation for owner notifications and escalation, plus a weekly digest for records needing attention.
+- **Evidence-based reporting**: Connected 7 workstreams and 3 internal checkpoints to weekly client updates; reworked executive updates to clarify progress.
 
 ---
 
@@ -77,7 +77,7 @@ At The Microsoft Garage, my focus was scaling AI skilling into something that co
 - **Certification and workshop tracks**: a 1,769-learner certification series and a trainer-led model spanning 39 workshops across 8 organizations.
 - **Reusable training infrastructure**: 13 training kits and resource hubs that let distributed teams run programs on their own.
 
-The technical learning community I built along the way now has **12,000+ members**.
+Along the way, I added **12K+ members** to a technical learning community.
 
 ---
 
@@ -85,7 +85,7 @@ The technical learning community I built along the way now has **12,000+ members
 
 Before AI skilling, I built the operational backbone at Microsoft Leap.
 
-I led a global team of 7 vendors delivering learning across **8 countries and 21 role pathways**.
+I directed day-to-day work for a global team of 7 vendors delivering learning across **8 countries and 21 role pathways**.
 
 That experience taught me how to run a program at scale, long before I tried to run one on AI. Streamlining how the team worked together improved productivity by 50%.
 
