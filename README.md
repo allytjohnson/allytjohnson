@@ -12,6 +12,8 @@ In FY26, that meant 121 events and 36,900 attendees, plus reusable kits and reso
 
 [Walking deck](docs/walking-deck.html) · [Portfolio site](https://allytjohnson.github.io/allytjohnson/) · [LinkedIn](https://www.linkedin.com/in/allytjohnson/) · [Email](mailto:allytjohnson@gmail.com)
 
+**One-pagers:** [A global AI learning program](docs/one-pagers/global-ai-learning-program.md) · [Reusable training infrastructure](docs/one-pagers/reusable-training-kits.md)
+
 ## About this repo
 
 This repository holds the source for my [portfolio site](https://allytjohnson.github.io/allytjohnson/) and [walking deck](docs/walking-deck.html), both published via GitHub Pages from `docs/`. Changes follow the [operating principles](docs/operating-principles.md).
